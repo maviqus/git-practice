@@ -1,0 +1,2 @@
+Hobbies: Reading, coding, hiking
+Skills: Python, Git, JavaScript
